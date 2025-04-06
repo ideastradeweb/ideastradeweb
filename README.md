@@ -1,8 +1,7 @@
 
 ![fullstack](/images/fullstack1.jpg)
 
-<h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
-<h3 align="center">Fullstack Developer</h3>
+## Find us
 
 - 📫 How to reach us **https://ideastradeweb.com**
 

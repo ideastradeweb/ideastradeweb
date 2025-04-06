@@ -49,6 +49,6 @@
   
 ## Contact me
 
-   📧 [juanfdx@ideastradeweb.com](https://juanfdx.com/contact) 
+   📧 [ideastradeweb@ideastradeweb.com](https://ideastradeweb.com/contact) 
    &nbsp;<br />
    &nbsp;<br />

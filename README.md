@@ -47,7 +47,7 @@
     <img src="/images/united-kingdom.png" width="41px" height="25px" /> 
   </p> 
   
-## Contact me
+## Contact us
 
    📧 [ideastradeweb@ideastradeweb.com](https://ideastradeweb.com/contact) 
    &nbsp;<br />

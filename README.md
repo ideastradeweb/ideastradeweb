@@ -29,7 +29,7 @@
 
 - Backend
    <p>
-    <img src="/images/node.png" width="48px" style={margin-bottom: 4px} /> &nbsp;
+    <img src="/images/node.png" width="48px" style="margin-bottom: 4px" /> &nbsp;
     <img src="/images/express.png" width="48px" /> &nbsp;
     <img src="/images/mysql.png" width="42px" /> &nbsp;
     <img src="/images/mongo.png" width="42px" />

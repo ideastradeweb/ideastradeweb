@@ -6,9 +6,9 @@
 
 - 📫 How to reach us **https://ideastradeweb.com**
 
-- 🙍‍♂️ Know about us [https://www.juanfdx.com/about](https://www.juanfdx.com/about)
+- 🙍‍♂️ Know about us [https://www.juanfdx.com/about](https://ideastradeweb.com/about)
 
-- 👨‍💻 All of our projects are available at [https://www.juanfdx.com/portfolio](https://www.juanfdx.com/portfolio)
+- 👨‍💻 What we do [https://www.juanfdx.com/portfolio](https://ideastradeweb.com/work)
 
 - 📄 Know about our experiences [https://www.juanfdx.com/resume](https://www.juanfdx.com/resume)
 

@@ -4,17 +4,17 @@
 <h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 📫 How to reach me **https://www.juanfdx.com**
+- 📫 How to reach us **https://ideastradeweb.com**
 
-- 🙍‍♂️ Know about me [https://www.juanfdx.com/about](https://www.juanfdx.com/about)
+- 🙍‍♂️ Know about us [https://www.juanfdx.com/about](https://www.juanfdx.com/about)
 
-- 👨‍💻 All of my projects are available at [https://www.juanfdx.com/portfolio](https://www.juanfdx.com/portfolio)
+- 👨‍💻 All of our projects are available at [https://www.juanfdx.com/portfolio](https://www.juanfdx.com/portfolio)
 
-- 📄 Know about my experiences [https://www.juanfdx.com/resume](https://www.juanfdx.com/resume)
+- 📄 Know about our experiences [https://www.juanfdx.com/resume](https://www.juanfdx.com/resume)
 
-- 💼 my linkedIn [https://www.linkedin.com/in/juanfdx-com](https://www.linkedin.com/in/juanfdx-com)
+- 💼 our linkedIn [https://www.linkedin.com/in/juanfdx-com](https://www.linkedin.com/in/juanfdx-com)
 
-## My Skills
+## Our Technologies
 
 - Frontend
   <p>
@@ -24,7 +24,6 @@
     <img src="/images/bootstrap.png" width="48px" />
     <img src="/images/javascript.png" width="48px" />
     <img src="/images/typescript.png" width="48px" />
-    <img src="/images/jquery.png" width="42px" />
     <img src="/images/react.png" width="42px" /> &nbsp;
     <img src="/images/angular.png" width="37px" />
   </p>
@@ -32,10 +31,6 @@
 - Backend
    <p>
     <img src="/images/node.png" width="48px" /> &nbsp;
-    <img src="/images/java.png" width="48px" /> &nbsp; 
-    <img src="/images/spring-boot1.png" width="44px" /> &nbsp;    
-    <img src="/images/php.png" width="50px" /> &nbsp;
-    <img src="/images/laravel.png" width="40px" /> &nbsp;
     <img src="/images/mysql.png" width="42px" /> &nbsp;
     <img src="/images/mongo.png" width="42px" />
   </p>

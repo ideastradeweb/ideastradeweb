@@ -11,7 +11,7 @@
 
 - 📄 Know about our experiences [https://www.juanfdx.com/resume](https://www.juanfdx.com/resume)
 
-- 💼 our linkedIn [https://www.linkedin.com/in/juanfdx-com](https://www.linkedin.com/in/juanfdx-com)
+- 💼 Our linkedIn [https://www.linkedin.com/in/juanfdx-com](https://www.linkedin.com/in/juanfdx-com)
 
 ## Our Technologies
 

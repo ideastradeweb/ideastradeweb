@@ -24,7 +24,7 @@
     <img src="/images/javascript.png" width="48px" />
     <img src="/images/typescript.png" width="48px" />
     <img src="/images/react.png" width="42px" /> &nbsp;
-    <img src="/images/angular.png" width="37px" />
+    <img src="/images/angular.png" width="36px" />
   </p>
 
 - Backend

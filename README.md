@@ -23,8 +23,8 @@
     <img src="/images/bootstrap.png" width="48px" />
     <img src="/images/javascript.png" width="48px" />
     <img src="/images/typescript.png" width="48px" />
-    <img src="/images/react.png" width="41px" /> &nbsp;
-    <img src="/images/angular.png" width="36px" />
+    <img src="/images/react.png" width="42px" /> &nbsp;
+    <img src="/images/angular.png" width="37px" />
   </p>
 
 - Backend

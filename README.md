@@ -1,5 +1,5 @@
 
-![fullstack](/images/fullstack1.jpg)
+![fullstack](/images/banner-web-development.png)
 
 ## Find us
 
